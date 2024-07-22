@@ -4,11 +4,12 @@ Neste Projeto para o Curso de IA do Lab DIO, usei o SageMaker Canvas para criar 
 
 
 ## Ferramentas
+
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
-[![AWS](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![IA](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![ML](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
+[![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/)
+[![IA](https://img.shields.io/badge/IA-000?style=for-the-badge&logo=ai&logoColor=008FBB)](https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_artificial)
+[![ML](https://img.shields.io/badge/ML-000?style=for-the-badge&logo=machine-learning&logoColor=32CD32)](https://en.wikipedia.org/wiki/Machine_learning)
 
 ## 🎯 Objetivos Deste Desafio de Projeto (Lab)
 
