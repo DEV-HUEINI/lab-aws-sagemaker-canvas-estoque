@@ -14,7 +14,13 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
 [![Análise de Sentimentos em Avaliações de Produtos usando Amazon AWS SageMaker Canvas](https://img.youtube.com/vi/eFMpne_vVa8/0.jpg)](https://www.youtube.com/watch?v=eFMpne_vVa8)
 
 ##
-<details>
+<style>
+  details[open] {
+    display: block;
+  }
+</style>
+
+<details open>
   <summary><h2>Índice</h2></summary>
   <table>
     <tr>
