@@ -89,14 +89,22 @@ Utilizamos o Amazon SageMaker Canvas para treinar dois modelos:
 ![image](https://github.com/user-attachments/assets/aeed1bf7-e4b0-4e46-9530-6d724a6466e8)
 
 
+## 6. Resultados e Metricas
+
+Os resultados mostraram que o modelo treinado com a base tratada teve um desempenho superior comparado ao modelo com base completa. As métricas de avaliação incluíram:
+
+![image](https://github.com/user-attachments/assets/68c88905-12c1-4ea0-a7c5-eae928afcf4b)
+![image](https://github.com/user-attachments/assets/c7bf6079-4df0-4b8e-a0c4-c9719be424ed)
 
 
-## 6. Resultados
-
-Os resultados mostraram que o modelo treinado com a base tratada teve um desempenho superior, com uma acurácia de 94.74%, comparado aos 93.62% do modelo com base completa. As métricas de avaliação incluíram:
-- **Precision**: 99.12%
-- **Recall**: 96.9%
-- **F1-Score**: Calculado como a média harmônica entre Precision e Recall.
+Recall (Sensibilidade): Capacidade do modelo de identificar todos os valores reais.
+  `Recall = TP / (TP + FN)`
+Precisão: Capacidade das previsões do modelo estarem corretas.
+  `Precisão = TP / (TP + FP)`
+Acurácia: Proporção de previsões corretas tanto para SIM como para NAO.
+  `Acurácia = (TP + TN) / Total de Previsões`
+F1-Score: Média harmônica entre Recall(Sensibilidade) e Precisão.
+  `F1-Score = 2 * (Precisão * Recall) / (Precisão + Recall)`
 
 ## 7. Análises
 
