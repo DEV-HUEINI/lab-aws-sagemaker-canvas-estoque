@@ -21,7 +21,7 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
   <table>
     <tr>
       <td>1.</td>
-      <td><a href="#Introdução">Introdução</a></td>
+      <td><a href="#1-introdução">Introdução</a></td>
     </tr>
     <tr>
       <td>2.</td>
@@ -56,7 +56,7 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
 </details>
 
 ##
-## Introdução
+## 1. Introdução
 A análise de sentimentos é uma ferramenta poderosa usada para entender opiniões e feedbacks de clientes. 
 Este projeto utiliza o Amazon AWS SageMaker Canvas para criar um modelo de aprendizado de máquina que analisa as avaliações de produtos para identificar sentimentos positivos ou negativos e determinar recomendações.
 
@@ -75,7 +75,7 @@ A base de dados utilizada contém avaliações de clientes sobre diversos produt
 - **Review**: Texto da avaliação do cliente.
 - **Recomendação**: Indicação se o cliente recomenda ou não o produto (Sim ou Não).
 
-## 4. Tratamento de Dados
+## Tratamento de Dados
 
 Para melhorar a eficiência do modelo, a base de dados foi tratada da seguinte forma:
 - Conversão de texto para minúsculas.
