@@ -9,61 +9,61 @@ Neste Projeto para o Curso de IA do Lab DIO, usei o SageMaker Canvas para criar 
 
 
 
+# Análise de Sentimentos de Avaliações de Produtos usando Amazon AWS SageMaker Canvas
 
-# Sentiment Analysis of Product Reviews using Amazon AWS SageMaker Canvas
+Este projeto demonstra o uso do Amazon AWS SageMaker Canvas para construir um modelo de aprendizado de máquina para análise de sentimentos de avaliações de produtos. O objetivo é analisar as avaliações de clientes e determinar se eles recomendam os produtos.
 
-This project demonstrates the use of Amazon AWS SageMaker Canvas to build a machine learning model for sentiment analysis of product reviews. The goal is to analyze customer reviews and determine whether they recommend the products.
+## Vídeo de Demonstração
+Aqui está um vídeo de demonstração que mostra todo o processo:
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Data Preparation](#data-preparation)
-- [Model Building](#model-building)
-- [Results](#results)
-- [Usage](#usage)
-- [Conclusion](#conclusion)
-- [License](#license)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SEU_VIDEO_ID" frameborder="0" allowfullscreen></iframe>
 
-## Introduction
-Sentiment analysis is a powerful tool used to understand customer opinions and feedback. This project leverages Amazon AWS SageMaker Canvas to create a machine learning model that analyzes product reviews to identify positive or negative sentiments and determine recommendations.
+## Índice
+- [Introdução](#introdução)
+- [Conjunto de Dados](#conjunto-de-dados)
+- [Preparação dos Dados](#preparação-dos-dados)
+- [Construção do Modelo](#construção-do-modelo)
+- [Resultados](#resultados)
+- [Uso](#uso)
+- [Conclusão](#conclusão)
+- [Licença](#licença)
 
-## Dataset
-The dataset used in this project consists of product reviews. It includes the following columns:
-- `review`: The text of the customer review.
-- `recommend`: A binary indicator of whether the customer recommends the product (1 for recommend, 0 for not recommend).
+## Introdução
+A análise de sentimentos é uma ferramenta poderosa usada para entender opiniões e feedbacks de clientes. Este projeto utiliza o Amazon AWS SageMaker Canvas para criar um modelo de aprendizado de máquina que analisa as avaliações de produtos para identificar sentimentos positivos ou negativos e determinar recomendações.
 
-## Data Preparation
-Data preparation is a crucial step in building an effective machine learning model. The following steps were taken:
-1. **Data Upload**: The dataset was uploaded to Amazon S3.
-2. **Data Cleaning**: Removed any unnecessary columns and rows. Only the `review` and `recommend` columns were retained for analysis.
-3. **Text Processing**: Performed text preprocessing steps such as tokenization, removal of stop words, and stemming/lemmatization.
+## Conjunto de Dados
+O conjunto de dados utilizado neste projeto consiste em avaliações de produtos. Inclui as seguintes colunas:
+- `review`: O texto da avaliação do cliente.
+- `recommend`: Um indicador binário de se o cliente recomenda o produto (1 para recomendar, 0 para não recomendar).
 
-## Model Building
-Using Amazon SageMaker Canvas, the following steps were followed to build the sentiment analysis model:
-1. **Dataset Import**: Imported the cleaned dataset from Amazon S3.
-2. **Feature Engineering**: Extracted features from the text data.
-3. **Model Training**: Configured and trained the sentiment analysis model using SageMaker Canvas.
-4. **Model Evaluation**: Evaluated the model's performance using various metrics like accuracy, precision, recall, and F1-score.
+## Preparação dos Dados
+A preparação dos dados é uma etapa crucial na construção de um modelo de aprendizado de máquina eficaz. Foram realizados os seguintes passos:
+1. **Upload dos Dados**: O conjunto de dados foi carregado no Amazon S3.
+2. **Limpeza dos Dados**: Remoção de colunas e linhas desnecessárias. Apenas as colunas `review` e `recommend` foram mantidas para análise.
+3. **Processamento de Texto**: Realização de etapas de pré-processamento de texto, como tokenização, remoção de stop words e stemming/lemmatização.
 
-## Results
-The model achieved the following performance metrics:
-- **Accuracy**: `xx%`
-- **Precision**: `xx%`
+## Construção do Modelo
+Usando o Amazon SageMaker Canvas, foram seguidos os seguintes passos para construir o modelo de análise de sentimentos:
+1. **Importação do Conjunto de Dados**: Importação do conjunto de dados limpo do Amazon S3.
+2. **Engenharia de Características**: Extração de características dos dados textuais.
+3. **Treinamento do Modelo**: Configuração e treinamento do modelo de análise de sentimentos usando o SageMaker Canvas.
+4. **Avaliação do Modelo**: Avaliação do desempenho do modelo usando várias métricas como acurácia, precisão, recall e F1-score.
+
+## Resultados
+O modelo alcançou as seguintes métricas de desempenho:
+- **Acurácia**: `xx%`
+- **Precisão**: `xx%`
 - **Recall**: `xx%`
 - **F1-Score**: `xx%`
 
-## Usage
-To use this model:
-1. **Clone the Repository**: `git clone https://github.com/your-username/sentiment-analysis-aws-sagemaker.git`
-2. **Upload Dataset**: Ensure your dataset is uploaded to Amazon S3.
-3. **Run Model**: Follow the instructions in the repository to import the dataset into SageMaker Canvas and run the model.
+## Uso
+Para usar este modelo:
+1. **Clone o Repositório**: `git clone https://github.com/your-username/sentiment-analysis-aws-sagemaker.git`
+2. **Carregue o Conjunto de Dados**: Certifique-se de que seu conjunto de dados esteja carregado no Amazon S3.
+3. **Execute o Modelo**: Siga as instruções no repositório para importar o conjunto de dados no SageMaker Canvas e executar o modelo.
 
-## Conclusion
-This project showcases the power of Amazon AWS SageMaker Canvas in building machine learning models with minimal coding. The sentiment analysis model provides insights into customer reviews and helps in understanding customer satisfaction.
+## Conclusão
+Este projeto demonstra o poder do Amazon AWS SageMaker Canvas na construção de modelos de aprendizado de máquina com o mínimo de codificação. O modelo de análise de sentimentos fornece insights sobre as avaliações dos clientes e ajuda a entender a satisfação do cliente.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-
-
-
+## Licença
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
