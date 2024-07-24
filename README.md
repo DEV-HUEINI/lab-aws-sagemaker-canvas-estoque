@@ -103,6 +103,7 @@ Os resultados mostraram que o modelo treinado com a base tratada teve um desempe
 
 
 <h3>Calculo de Métricas</h3>
+
 - **Recall (Sensibilidade)**: Capacidade do modelo de identificar todos os valores reais.  
 `Recall = TP / (TP + FN)`
 
@@ -114,8 +115,6 @@ Os resultados mostraram que o modelo treinado com a base tratada teve um desempe
 
 - **F1-Score**: Média harmônica entre Recall e Precisão.  
 `F1-Score = 2 * (Precisão * Recall) / (Precisão + Recall)`
-
-
 
 
 
