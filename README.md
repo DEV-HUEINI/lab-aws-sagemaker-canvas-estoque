@@ -23,30 +23,26 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
     </tr>
     <tr>
       <td>2.</td>
-      <td><a href="#2-conjunto-de-dados">Conjunto de Dados</a></td>
-    </tr>
-    <tr>
-      <td>3.</td>
       <td><a href="#3-base-de-dados">Base de Dados</a></td>
     </tr>
     <tr>
-      <td>4.</td>
+      <td>3.</td>
       <td><a href="#4-tratamento-de-dados">Tratamento de Dados</a></td>
     </tr>
     <tr>
-      <td>5.</td>
+      <td>4.</td>
       <td><a href="#5-treinamento-do-modelo">Treinamento do Modelo</a></td>
     </tr>
     <tr>
-      <td>6.</td>
+      <td>5.</td>
       <td><a href="#6-resultados">Resultados</a></td>
     </tr>
     <tr>
-      <td>7.</td>
+      <td>6.</td>
       <td><a href="#7-análises">Análises</a></td>
     </tr>
     <tr>
-      <td>8.</td>
+      <td>7.</td>
       <td><a href="#8-conclusão">Conclusão</a></td>
     </tr>
   </table>
@@ -57,7 +53,7 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
 A análise de sentimentos é uma ferramenta poderosa usada para entender opiniões e feedbacks de clientes. 
 Este projeto utiliza o Amazon AWS SageMaker Canvas para criar um modelo de aprendizado de máquina que analisa as avaliações de produtos para identificar sentimentos positivos ou negativos e determinar recomendações.
 
-## 3. Base de Dados
+## 2. Base de Dados
 
 A base de dados utilizada contém avaliações de clientes sobre diversos produtos. As colunas principais são:
 - **`Review`**: Texto da avaliação do cliente.
@@ -72,14 +68,14 @@ A base de dados utilizada contém avaliações de clientes sobre diversos produt
 
 
 
-## Tratamento de Dados
+## 3. Tratamento de Dados
 
 Para melhorar a eficiência do modelo, a base de dados foi tratada da seguinte forma:
 - Conversão de texto para minúsculas.
 - Remoção de caracteres especiais e números.
 - Manutenção apenas das colunas relevantes (review e recomendação).
 
-## 5. Treinamento do Modelo
+## 4. Treinamento do Modelo
 
 Utilizamos o Amazon SageMaker Canvas para treinar dois modelos:
 - **Modelo com Base Completa**: Inclui todas as colunas, sem tratamento específico.
@@ -89,7 +85,7 @@ Utilizamos o Amazon SageMaker Canvas para treinar dois modelos:
 ![image](https://github.com/user-attachments/assets/aeed1bf7-e4b0-4e46-9530-6d724a6466e8)
 
 
-## 6. Resultados e Métricas
+## 5. Resultados e Métricas
 
 Os resultados mostraram que o modelo treinado com a base tratada teve um desempenho superior comparado ao modelo com base completa. As métricas de avaliação incluíram:
 
@@ -101,7 +97,7 @@ Os resultados mostraram que o modelo treinado com a base tratada teve um desempe
   <img src="https://github.com/user-attachments/assets/b9781648-0461-4729-b56b-6a7670e61c06" alt="Matriz de Confusão" width="500" style="display: inline-block; border: 2px solid #ddd; padding: 5px; margin: 10px; box-sizing: border-box;"/>
 </p>
 
-<h3>Calculo de Métricas</h3>
+<h3>## 6. Calculo de Métricas</h3>
 
 - **Recall (Sensibilidade)**: Capacidade do modelo de identificar todos os valores reais.  
 `Recall = TP / (TP + FN)`
@@ -115,12 +111,12 @@ Os resultados mostraram que o modelo treinado com a base tratada teve um desempe
 - **F1-Score**: Média harmônica entre Recall e Precisão.  
 `F1-Score = 2 * (Precisão * Recall) / (Precisão + Recall)`
 
-## 7. Análises
+## 6. Análises
 
 Realizamos previsões com o modelo treinado utilizando novas avaliações de produtos. As análises confirmaram que o modelo é capaz de prever corretamente o sentimento das avaliações, com alta precisão para tanto avaliações positivas quanto negativas.
 
 ![image](https://github.com/user-attachments/assets/e5f1af53-6367-4aff-bc64-b2c778887491)
 
-## Conclusão
+## 7. Conclusão
 
 Concluímos com sucesso o projeto de análise de sentimentos utilizando Amazon AWS SageMaker Canvas. O modelo demonstrou alta eficiência na classificação de avaliações de produtos, destacando a importância do tratamento (pré-processamento) adequado dos dados para obter melhores resultados.
