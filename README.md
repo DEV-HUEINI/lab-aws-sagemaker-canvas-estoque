@@ -56,11 +56,11 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
 </details>
 
 ##
-### 1. Introdução
+## 1. Introdução
 A análise de sentimentos é uma ferramenta poderosa usada para entender opiniões e feedbacks de clientes. 
 Este projeto utiliza o Amazon AWS SageMaker Canvas para criar um modelo de aprendizado de máquina que analisa as avaliações de produtos para identificar sentimentos positivos ou negativos e determinar recomendações.
 
-### 2. Conjunto de Dados
+## 2. Conjunto de Dados
 O conjunto de dados utilizado neste projeto consiste em avaliações de produtos.
 
 - `BASE COMPLETA`: Base de Dados Completa com todas as colunas e formatos originais da fonte.
@@ -69,37 +69,37 @@ O conjunto de dados utilizado neste projeto consiste em avaliações de produtos
 - `RESULTADO DAS PREVISOES - BASE COMPLETA`: 19/20.
 - `RESULTADO DAS PREVISOES - BASE TRATADA`: 20/20.
 
-### 3. Base de Dados
+## 3. Base de Dados
 
 A base de dados utilizada contém avaliações de clientes sobre diversos produtos. As colunas principais são:
 - **Review**: Texto da avaliação do cliente.
 - **Recomendação**: Indicação se o cliente recomenda ou não o produto (Sim ou Não).
 
-### 4. Tratamento de Dados
+## 4. Tratamento de Dados
 
 Para melhorar a eficiência do modelo, a base de dados foi tratada da seguinte forma:
 - Conversão de texto para minúsculas.
 - Remoção de caracteres especiais e números.
 - Manutenção apenas das colunas relevantes (review e recomendação).
 
-### 5. Treinamento do Modelo
+## 5. Treinamento do Modelo
 
 Utilizamos o Amazon SageMaker Canvas para treinar dois modelos:
 - **Modelo com Base Completa**: Inclui todas as colunas, sem tratamento específico.
 - **Modelo com Base Tratada**: Inclui apenas as colunas relevantes e dados tratados.
 
-### 6. Resultados
+## 6. Resultados
 
 Os resultados mostraram que o modelo treinado com a base tratada teve um desempenho superior, com uma acurácia de 94.74%, comparado aos 93.62% do modelo com base completa. As métricas de avaliação incluíram:
 - **Precision**: 99.12%
 - **Recall**: 96.9%
 - **F1-Score**: Calculado como a média harmônica entre Precision e Recall.
 
-### 7. Análises
+## 7. Análises
 
 Realizamos previsões com o modelo treinado utilizando novas avaliações de produtos. As análises confirmaram que o modelo é capaz de prever corretamente o sentimento das avaliações, com alta precisão para tanto avaliações positivas quanto negativas.
 
-### Exemplo de Dados
+## Exemplo de Dados
 
 Aqui estão as 5 primeiras colunas da base de dados utilizada:
 
