@@ -35,7 +35,7 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
     </tr>
     <tr>
       <td>5.</td>
-      <td><a href="#5-resultados">Resultados</a></td>
+      <td><a href="#5-resultados-e-metricas">Resultados</a></td>
     </tr>
     <tr>
       <td>6.</td>
@@ -97,7 +97,7 @@ Os resultados mostraram que o modelo treinado com a base tratada teve um desempe
   <img src="https://github.com/user-attachments/assets/b9781648-0461-4729-b56b-6a7670e61c06" alt="Matriz de Confusão" width="500" style="display: inline-block; border: 2px solid #ddd; padding: 5px; margin: 10px; box-sizing: border-box;"/>
 </p>
 
-<h3>## 6. Calculo de Métricas</h3>
+<h3>Calculo de Métricas</h3>
 
 - **Recall (Sensibilidade)**: Capacidade do modelo de identificar todos os valores reais.  
 `Recall = TP / (TP + FN)`
@@ -111,7 +111,7 @@ Os resultados mostraram que o modelo treinado com a base tratada teve um desempe
 - **F1-Score**: Média harmônica entre Recall e Precisão.  
 `F1-Score = 2 * (Precisão * Recall) / (Precisão + Recall)`
 
-## 6. Análises
+## 6. Análise
 
 Realizamos previsões com o modelo treinado utilizando novas avaliações de produtos. As análises confirmaram que o modelo é capaz de prever corretamente o sentimento das avaliações, com alta precisão para tanto avaliações positivas quanto negativas.
 
