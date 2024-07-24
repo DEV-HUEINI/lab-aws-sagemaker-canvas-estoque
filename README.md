@@ -35,7 +35,7 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
     </tr>
     <tr>
       <td>5.</td>
-      <td><a href="#5-resultados-e-metricas">Resultados</a></td>
+      <td><a href="#5-resultados-e-metricas">Resultados e Métricas</a></td>
     </tr>
     <tr>
       <td>6.</td>
