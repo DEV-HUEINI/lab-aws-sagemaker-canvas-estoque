@@ -1,6 +1,4 @@
-# 📊 Analise de Sentimento em Avaliações de Produtos na AWS com [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
-
-# Análise de Sentimentos de Avaliações de Produtos usando Amazon AWS SageMaker Canvas
+# 📊 Análise de Sentimentos de Avaliações de Produtos usando Amazon AWS [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
 
 Neste Projeto para o Curso de IA do Lab DIO, usei o SageMaker Canvas para criar previsões de Analise de Sentimento em Avaliacao de Produtos com Machine Learning (ML).
 
