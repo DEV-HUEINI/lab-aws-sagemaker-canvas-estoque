@@ -16,7 +16,7 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
 ##
 
 <details>
-  <summary># Índice</summary>
+  <summary>## Índice</summary>
 
   <table>
     <tr>
