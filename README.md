@@ -11,22 +11,30 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
 
 
 ## Índice
-- [Introdução](#introdução)
-- [Conjunto de Dados](#conjunto-de-dados)
-- [Preparação dos Dados](#preparação-dos-dados)
-- [Construção do Modelo](#construção-do-modelo)
-- [Resultados](#resultados)
-- [Uso](#uso)
-- [Conclusão](#conclusão)
-- [Licença](#licença)
+- 1. [Introdução](#introdução)
+- 2. [Conjunto de Dados](#conjunto-de-dados)
+- 3. [Preparação dos Dados](#preparação-dos-dados)
+- 4. [Construção do Modelo](#construção-do-modelo)
+- 5. [Resultados](#resultados)
+- 6. [Uso](#uso)
+- 7. [Conclusão](#conclusão)
+- 8. [Licença](#licença)
 
 ## Introdução
-A análise de sentimentos é uma ferramenta poderosa usada para entender opiniões e feedbacks de clientes. Este projeto utiliza o Amazon AWS SageMaker Canvas para criar um modelo de aprendizado de máquina que analisa as avaliações de produtos para identificar sentimentos positivos ou negativos e determinar recomendações.
+Olá, meu nome é Hueini David. Sou formado em Ciências da Computação e atualmente estou cursando pós-graduação em Inteligência Artificial e Aprendizagem de Máquina. 
+Este projeto é uma demonstração prática das habilidades adquiridas no curso "Bootcamp Nexa Machine Learning para Iniciantes" da DIO.
+
+A análise de sentimentos é uma ferramenta poderosa usada para entender opiniões e feedbacks de clientes. 
+Este projeto utiliza o Amazon AWS SageMaker Canvas para criar um modelo de aprendizado de máquina que analisa as avaliações de produtos para identificar sentimentos positivos ou negativos e determinar recomendações.
 
 ## Conjunto de Dados
-O conjunto de dados utilizado neste projeto consiste em avaliações de produtos. Inclui as seguintes colunas:
-- `review`: O texto da avaliação do cliente.
-- `recommend`: Um indicador binário de se o cliente recomenda o produto (1 para recomendar, 0 para não recomendar).
+O conjunto de dados utilizado neste projeto consiste em avaliações de produtos.
+
+- `BASE COMPLETA`: Base de Dados Completa com todas as colunas e formatos originais da fonte.
+- `BASE TRARADA`: Base de Dados Tratada, somente com as colunas necessárias e feito tratamento de texto (Removido caracteres, numeros, acentos, e convertido tudo para minusculo).
+- `BASE PARA PREVISAO`: Base de Dados Aleatória criada pelo Gemini para simular analises de Clientes.
+- `RESULTADO DAS PREVISOES - BASE COMPLETA`: 19/20.
+- `RESULTADO DAS PREVISOES - BASE TRATADA`: 20/20.
 
 ## Preparação dos Dados
 A preparação dos dados é uma etapa crucial na construção de um modelo de aprendizado de máquina eficaz. Foram realizados os seguintes passos:
