@@ -16,7 +16,6 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
 ##
 <details>
   <summary><h2>Índice</h2></summary>
-
   <table>
     <tr>
       <td>1.</td>
@@ -24,34 +23,33 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
     </tr>
     <tr>
       <td>2.</td>
-      <td><a href="#2-Conjunto de Dados">Conjunto de Dados</a></td>
+      <td><a href="#2-conjunto-de-dados">Conjunto de Dados</a></td>
     </tr>
     <tr>
       <td>3.</td>
-      <td><a href="#3-Base de Dados">Preparação dos Dados</a></td>
+      <td><a href="#3-base-de-dados">Base de Dados</a></td>
     </tr>
     <tr>
       <td>4.</td>
-      <td><a href="#4-Tratamento de Dados">Construção do Modelo</a></td>
+      <td><a href="#4-tratamento-de-dados">Tratamento de Dados</a></td>
     </tr>
     <tr>
       <td>5.</td>
-      <td><a href="#5-Treinamento do Modelo">Resultados</a></td>
+      <td><a href="#5-treinamento-do-modelo">Treinamento do Modelo</a></td>
     </tr>
     <tr>
       <td>6.</td>
-      <td><a href="#6-Resultados">Uso</a></td>
+      <td><a href="#6-resultados">Resultados</a></td>
     </tr>
     <tr>
       <td>7.</td>
-      <td><a href="#7-Análises">Conclusão</a></td>
+      <td><a href="#7-análises">Análises</a></td>
     </tr>
     <tr>
       <td>8.</td>
-      <td><a href="#8-Conclusão">Conclusão</a></td>
+      <td><a href="#8-conclusão">Conclusão</a></td>
     </tr>
   </table>
-
 </details>
 
 ##
@@ -97,18 +95,6 @@ Os resultados mostraram que o modelo treinado com a base tratada teve um desempe
 ## 7. Análises
 
 Realizamos previsões com o modelo treinado utilizando novas avaliações de produtos. As análises confirmaram que o modelo é capaz de prever corretamente o sentimento das avaliações, com alta precisão para tanto avaliações positivas quanto negativas.
-
-## Exemplo de Dados
-
-Aqui estão as 5 primeiras colunas da base de dados utilizada:
-
-| ClienteID | ProdutoID | Review                                | Recomendação | Data       |
-|-----------|------------|---------------------------------------|--------------|------------|
-| 1         | 101        | Ótimo produto, recomendo!             | Sim          | 2021-01-01 |
-| 2         | 102        | Produto de baixa qualidade.           | Não          | 2021-01-02 |
-| 3         | 103        | Chegou no prazo e funciona bem.       | Sim          | 2021-01-03 |
-| 4         | 104        | Não gostei, esperava mais.            | Não          | 2021-01-04 |
-| 5         | 105        | Excelente, superou minhas expectativas! | Sim          | 2021-01-05 |
 
 ## Conclusão
 
