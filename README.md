@@ -97,15 +97,6 @@ Os resultados mostraram que o modelo treinado com a base tratada teve um desempe
 ![image](https://github.com/user-attachments/assets/c7bf6079-4df0-4b8e-a0c4-c9719be424ed)
 
 
-Recall (Sensibilidade): Capacidade do modelo de identificar todos os valores reais.
-  `Recall = TP / (TP + FN)`
-Precisão: Capacidade das previsões do modelo estarem corretas.
-  `Precisão = TP / (TP + FP)`
-Acurácia: Proporção de previsões corretas tanto para SIM como para NAO.
-  `Acurácia = (TP + TN) / Total de Previsões`
-F1-Score: Média harmônica entre Recall(Sensibilidade) e Precisão.
-  `F1-Score = 2 * (Precisão * Recall) / (Precisão + Recall)`
-
 - **Recall (Sensibilidade)**: Capacidade do modelo de identificar todos os valores reais.  
 `Recall = TP / (TP + FN)`
 
