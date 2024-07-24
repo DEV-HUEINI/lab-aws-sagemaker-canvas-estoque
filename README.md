@@ -23,27 +23,27 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
     </tr>
     <tr>
       <td>2.</td>
-      <td><a href="#3-base-de-dados">Base de Dados</a></td>
+      <td><a href="#2-base-de-dados">Base de Dados</a></td>
     </tr>
     <tr>
       <td>3.</td>
-      <td><a href="#4-tratamento-de-dados">Tratamento de Dados</a></td>
+      <td><a href="#3-tratamento-de-dados">Tratamento de Dados</a></td>
     </tr>
     <tr>
       <td>4.</td>
-      <td><a href="#5-treinamento-do-modelo">Treinamento do Modelo</a></td>
+      <td><a href="#4-treinamento-do-modelo">Treinamento do Modelo</a></td>
     </tr>
     <tr>
       <td>5.</td>
-      <td><a href="#6-resultados">Resultados</a></td>
+      <td><a href="#5-resultados">Resultados</a></td>
     </tr>
     <tr>
       <td>6.</td>
-      <td><a href="#7-análises">Análises</a></td>
+      <td><a href="#6-análises">Análises</a></td>
     </tr>
     <tr>
       <td>7.</td>
-      <td><a href="#8-conclusão">Conclusão</a></td>
+      <td><a href="#7-conclusão">Conclusão</a></td>
     </tr>
   </table>
 </details>
