@@ -89,7 +89,7 @@ Utilizamos o Amazon SageMaker Canvas para treinar dois modelos:
 ![image](https://github.com/user-attachments/assets/aeed1bf7-e4b0-4e46-9530-6d724a6466e8)
 
 
-## 6. Resultados e Metricas
+## 6. Resultados e Métricas
 
 Os resultados mostraram que o modelo treinado com a base tratada teve um desempenho superior comparado ao modelo com base completa. As métricas de avaliação incluíram:
 
@@ -102,8 +102,7 @@ Os resultados mostraram que o modelo treinado com a base tratada teve um desempe
 </p>
 
 
-
-<h2>Calculo de Métricas</h2>
+<h3>Calculo de Métricas</h3>
 - **Recall (Sensibilidade)**: Capacidade do modelo de identificar todos os valores reais.  
 `Recall = TP / (TP + FN)`
 
