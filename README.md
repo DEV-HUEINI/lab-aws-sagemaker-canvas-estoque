@@ -1,15 +1,6 @@
-# 📊 Analise de Sentimento em Avaliacao de Produtos na AWS com [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
+# 📊 Analise de Sentimento em Avaliações de Produtos na AWS com [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
 
 Neste Projeto para o Curso de IA do Lab DIO, usei o SageMaker Canvas para criar previsões de Analise de Sentimento em Avaliacao de Produtos com Machine Learning (ML).
-
-
-## Ferramentas
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com/doc)
-[![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/)
-[![IA](https://img.shields.io/badge/IA-000?style=for-the-badge&logo=artificial-intelligence&logoColor=white)](https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_artificial)
-[![ML](https://img.shields.io/badge/ML-000?style=for-the-badge&logo=machine-learning&logoColor=white)](https://en.wikipedia.org/wiki/Machine_learning)
 
 
 ## 🎯 Objetivos Deste Desafio de Projeto (Lab)
