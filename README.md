@@ -85,7 +85,7 @@ Utilizamos o Amazon SageMaker Canvas para treinar dois modelos:
 - **Modelo com Base Completa**: Inclui todas as colunas, sem tratamento específico.
 ![image](https://github.com/user-attachments/assets/beaac05b-d6e3-459c-9649-952e54a4506a)
 
-- **Modelo com Base Tratada**: Inclui apenas as colunas relevantes e dados tratados.
+- **Modelo com Base Tratada**: Inclui apenas as colunas relevantes e dados pré-processados.
 ![image](https://github.com/user-attachments/assets/aeed1bf7-e4b0-4e46-9530-6d724a6466e8)
 
 
