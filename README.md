@@ -5,9 +5,15 @@ Olá, meu nome é Hueini David.
 
 Sou formado em Ciências da Computação e atualmente estou cursando Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina.
 
-Este projeto é uma demonstração prática das habilidades adquiridas no curso "Bootcamp Nexa - Machine Learning para Iniciantes" da DIO em Parceria com a Amazon AWS.
+Este projeto é uma demonstração prática das habilidades adquiridas no curso "Bootcamp Nexa - Machine Learning para Iniciantes" da DIO em parceria com a Amazon AWS.
 
 
+## Vídeo de Demonstração
+Aqui está um vídeo de demonstração que mostra todo o processo:
+
+[![Análise de Sentimentos em Avaliações de Produtos usando Amazon AWS SageMaker Canvas](https://img.youtube.com/vi/eFMpne_vVa8/0.jpg)](https://www.youtube.com/watch?v=eFMpne_vVa8)
+
+##
 <details>
   <summary># Índice
 </summary>
@@ -22,15 +28,7 @@ Este projeto é uma demonstração prática das habilidades adquiridas no curso 
   8. [Licença](#licença)
 
 </details>
-
-
-## Vídeo de Demonstração
-Aqui está um vídeo de demonstração que mostra todo o processo:
-
-[![Análise de Sentimentos em Avaliações de Produtos usando Amazon AWS SageMaker Canvas](https://img.youtube.com/vi/eFMpne_vVa8/0.jpg)](https://www.youtube.com/watch?v=eFMpne_vVa8)
-
-
-
+##
 
 ### 1. Introdução
 A análise de sentimentos é uma ferramenta poderosa usada para entender opiniões e feedbacks de clientes. 
