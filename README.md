@@ -97,11 +97,11 @@ Os resultados mostraram que o modelo treinado com a base tratada teve um desempe
 ![image](https://github.com/user-attachments/assets/c7bf6079-4df0-4b8e-a0c4-c9719be424ed)
 
 
-<p style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <img src="https://github.com/user-attachments/assets/3f98b212-9e1d-428b-bda2-3598948a3b70" alt="Gráfico de Performance do Modelo" style="flex: 0 0 auto; width: 50%; border: 2px solid #ddd; padding: 5px; box-sizing: border-box;"/>
-  <img src="https://github.com/user-attachments/assets/b9781648-0461-4729-b56b-6a7670e61c06" alt="Matriz de Confusão" style="flex: 0 0 auto; width: 50%; border: 2px solid #ddd; padding: 5px; box-sizing: border-box;"/>
-</p>
 
+<p>
+  <img src="https://github.com/user-attachments/assets/3f98b212-9e1d-428b-bda2-3598948a3b70" alt="Gráfico de Performance do Modelo" width="500" style="display: inline-block; border: 2px solid #ddd; padding: 5px; margin: 10px; box-sizing: border-box;"/>
+  <img src="https://github.com/user-attachments/assets/b9781648-0461-4729-b56b-6a7670e61c06" alt="Matriz de Confusão" width="500" style="display: inline-block; border: 2px solid #ddd; padding: 5px; margin: 10px; box-sizing: border-box;"/>
+</p>
 
 
 
