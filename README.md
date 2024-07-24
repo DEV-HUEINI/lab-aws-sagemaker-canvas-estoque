@@ -28,7 +28,47 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
   8. [Licença](#licença)
 
 </details>
-##
+
+<details>
+  <summary># Índice</summary>
+
+  <table>
+    <tr>
+      <td>1.</td>
+      <td><a href="#introdução">Introdução</a></td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td><a href="#conjunto-de-dados">Conjunto de Dados</a></td>
+    </tr>
+    <tr>
+      <td>3.</td>
+      <td><a href="#preparação-dos-dados">Preparação dos Dados</a></td>
+    </tr>
+    <tr>
+      <td>4.</td>
+      <td><a href="#construção-do-modelo">Construção do Modelo</a></td>
+    </tr>
+    <tr>
+      <td>5.</td>
+      <td><a href="#resultados">Resultados</a></td>
+    </tr>
+    <tr>
+      <td>6.</td>
+      <td><a href="#uso">Uso</a></td>
+    </tr>
+    <tr>
+      <td>7.</td>
+      <td><a href="#conclusão">Conclusão</a></td>
+    </tr>
+    <tr>
+      <td>8.</td>
+      <td><a href="#licença">Licença</a></td>
+    </tr>
+  </table>
+
+</details>
+
 
 ### 1. Introdução
 A análise de sentimentos é uma ferramenta poderosa usada para entender opiniões e feedbacks de clientes. 
