@@ -109,7 +109,7 @@ Os resultados mostraram que o modelo treinado com a base tratada teve um desempe
 - **F1-Score**: Média harmônica entre Recall e Precisão.  
 `F1-Score = 2 * (Precisão * Recall) / (Precisão + Recall)`
 
-![image](https://github.com/user-attachments/assets/f1d4a4b0-dfbc-4e59-8c8e-28ad14cc7591)
+<img src="https://github.com/user-attachments/assets/f1d4a4b0-dfbc-4e59-8c8e-28ad14cc7591" alt="Descrição da imagem" width="300" />
 
 
 ## 7. Análises
