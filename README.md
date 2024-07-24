@@ -24,31 +24,31 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
     </tr>
     <tr>
       <td>2.</td>
-      <td><a href="#2. Conjunto de Dados">Conjunto de Dados</a></td>
+      <td><a href="#2-Conjunto de Dados">Conjunto de Dados</a></td>
     </tr>
     <tr>
       <td>3.</td>
-      <td><a href="#3. Base de Dados">Preparação dos Dados</a></td>
+      <td><a href="#3-Base de Dados">Preparação dos Dados</a></td>
     </tr>
     <tr>
       <td>4.</td>
-      <td><a href="#4. Tratamento de Dados">Construção do Modelo</a></td>
+      <td><a href="#4-Tratamento de Dados">Construção do Modelo</a></td>
     </tr>
     <tr>
       <td>5.</td>
-      <td><a href="#5. Treinamento do Modelo">Resultados</a></td>
+      <td><a href="#5-Treinamento do Modelo">Resultados</a></td>
     </tr>
     <tr>
       <td>6.</td>
-      <td><a href="#6. Resultados">Uso</a></td>
+      <td><a href="#6-Resultados">Uso</a></td>
     </tr>
     <tr>
       <td>7.</td>
-      <td><a href="#7. Análises">Conclusão</a></td>
+      <td><a href="#7-Análises">Conclusão</a></td>
     </tr>
     <tr>
       <td>8.</td>
-      <td><a href="#8. Conclusão">Conclusão</a></td>
+      <td><a href="#8-Conclusão">Conclusão</a></td>
     </tr>
   </table>
 
