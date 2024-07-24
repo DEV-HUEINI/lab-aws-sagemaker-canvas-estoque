@@ -13,7 +13,8 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
 
 [![Análise de Sentimentos em Avaliações de Produtos usando Amazon AWS SageMaker Canvas](https://img.youtube.com/vi/eFMpne_vVa8/0.jpg)](https://www.youtube.com/watch?v=eFMpne_vVa8)
 
-##
+***
+---
 <details>
   <summary># Índice
 </summary>
@@ -68,7 +69,8 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
   </table>
 
 </details>
-
+---
+***
 
 ### 1. Introdução
 A análise de sentimentos é uma ferramenta poderosa usada para entender opiniões e feedbacks de clientes. 
