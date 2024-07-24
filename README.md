@@ -57,20 +57,20 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
 A análise de sentimentos é uma ferramenta poderosa usada para entender opiniões e feedbacks de clientes. 
 Este projeto utiliza o Amazon AWS SageMaker Canvas para criar um modelo de aprendizado de máquina que analisa as avaliações de produtos para identificar sentimentos positivos ou negativos e determinar recomendações.
 
-## 2. Conjunto de Dados
-O conjunto de dados utilizado neste projeto consiste em avaliações de produtos.
-
-- `BASE COMPLETA`: Base de Dados Completa com todas as colunas e formatos originais da fonte.
-- `BASE TRARADA`: Base de Dados Tratada, somente com as colunas necessárias e feito tratamento de texto (Removido caracteres, numeros, acentos, e convertido tudo para minusculo).
-- `BASE PARA PREVISAO`: Base de Dados Aleatória criada pelo Gemini para simular analises de Clientes.
-- `RESULTADO DAS PREVISOES - BASE COMPLETA`: 19/20.
-- `RESULTADO DAS PREVISOES - BASE TRATADA`: 20/20.
-
 ## 3. Base de Dados
 
 A base de dados utilizada contém avaliações de clientes sobre diversos produtos. As colunas principais são:
-- **Review**: Texto da avaliação do cliente.
-- **Recomendação**: Indicação se o cliente recomenda ou não o produto (Sim ou Não).
+- **`Review`**: Texto da avaliação do cliente.
+- **`Recomendação`**: Indicação se o cliente recomenda ou não o produto (Sim ou Não).
+
+| Date       | Review                | Overall Rating | Recommend to a Friend |
+|------------|------------------------|----------------|------------------------|
+| 2024-07-01 | Excelente produto!    | 5              | Sim                    |
+| 2024-07-02 | Muito bom, mas pode melhorar | 4              | Não                    |
+| 2024-07-03 | Não gostei do produto | 2              | Não                    |
+
+
+
 
 ## Tratamento de Dados
 
