@@ -1,7 +1,9 @@
 
-## Índice
+# 📊 Análise de Sentimentos em Avaliações de Produtos usando Amazon AWS [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
+
 <details>
-  <summary># 📊 Análise de Sentimentos em Avaliações de Produtos usando Amazon AWS [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)</summary>
+  <summary>#Índice
+</summary>
 
   1. [Introdução](#introdução)
   2. [Conjunto de Dados](#conjunto-de-dados)
