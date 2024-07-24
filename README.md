@@ -1,5 +1,11 @@
 
-# 📊 Análise de Sentimentos em Avaliações de Produtos usando Amazon AWS [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
+## 📊 Análise de Sentimentos em Avaliações de Produtos usando Amazon AWS [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
+
+Olá, meu nome é Hueini David. Sou formado em Ciências da Computação e atualmente estou cursando Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina.
+
+Este projeto é uma demonstração prática das habilidades adquiridas no curso "Bootcamp Nexa - Machine Learning para Iniciantes" da DIO em Parceria com a Amazon AWS.
+
+
 
 <details>
   <summary>#Índice
@@ -26,15 +32,10 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
 
 
 ### 1. Introdução
-Olá, meu nome é Hueini David. 
-Sou formado em Ciências da Computação e atualmente estou cursando Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina.
-
-Este projeto é uma demonstração prática e habilidades adquiridas no curso "Bootcamp Nexa Machine Learning para Iniciantes" da DIO.
-
 A análise de sentimentos é uma ferramenta poderosa usada para entender opiniões e feedbacks de clientes. 
 Este projeto utiliza o Amazon AWS SageMaker Canvas para criar um modelo de aprendizado de máquina que analisa as avaliações de produtos para identificar sentimentos positivos ou negativos e determinar recomendações.
 
-## Conjunto de Dados
+### 2. Conjunto de Dados
 O conjunto de dados utilizado neste projeto consiste em avaliações de produtos.
 
 - `BASE COMPLETA`: Base de Dados Completa com todas as colunas e formatos originais da fonte.
