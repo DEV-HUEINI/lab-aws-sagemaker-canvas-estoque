@@ -97,9 +97,10 @@ Os resultados mostraram que o modelo treinado com a base tratada teve um desempe
 ![image](https://github.com/user-attachments/assets/c7bf6079-4df0-4b8e-a0c4-c9719be424ed)
 
 <p>
-  <img src="https://github.com/user-attachments/assets/e940806b-e9f7-47a1-9e41-b68a0a11a395" alt="Descrição da imagem" width="300" style="display: inline-block; border: 2px solid black; padding: 5px; margin: 5px;"/>
-  <img src="https://github.com/user-attachments/assets/f1d4a4b0-dfbc-4e59-8c8e-28ad14cc7591" alt="Descrição da imagem" width="300" style="display: inline-block; border: 2px solid black; padding: 5px; margin: 5px;"/>
+  <img src="https://github.com/user-attachments/assets/e940806b-e9f7-47a1-9e41-b68a0a11a395" alt="Descrição da imagem" width="300" style="display: inline-block; border: 3px solid black; padding: 5px; margin: 5px; box-sizing: border-box;"/>
+  <img src="https://github.com/user-attachments/assets/f1d4a4b0-dfbc-4e59-8c8e-28ad14cc7591" alt="Descrição da imagem" width="300" style="display: inline-block; border: 3px solid black; padding: 5px; margin: 5px; box-sizing: border-box;"/>
 </p>
+
 
 
 <h2>Fórmulas</h2>
