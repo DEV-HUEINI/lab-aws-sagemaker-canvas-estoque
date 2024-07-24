@@ -96,15 +96,10 @@ Os resultados mostraram que o modelo treinado com a base tratada teve um desempe
 ![image](https://github.com/user-attachments/assets/68c88905-12c1-4ea0-a7c5-eae928afcf4b)
 ![image](https://github.com/user-attachments/assets/c7bf6079-4df0-4b8e-a0c4-c9719be424ed)
 
-
-
 <p>
   <img src="https://github.com/user-attachments/assets/3f98b212-9e1d-428b-bda2-3598948a3b70" alt="Gráfico de Performance do Modelo" width="500" style="display: inline-block; border: 2px solid #ddd; padding: 5px; margin: 10px; box-sizing: border-box;"/>
   <img src="https://github.com/user-attachments/assets/b9781648-0461-4729-b56b-6a7670e61c06" alt="Matriz de Confusão" width="500" style="display: inline-block; border: 2px solid #ddd; padding: 5px; margin: 10px; box-sizing: border-box;"/>
 </p>
-
-
-
 
 <h3>Calculo de Métricas</h3>
 
@@ -120,11 +115,11 @@ Os resultados mostraram que o modelo treinado com a base tratada teve um desempe
 - **F1-Score**: Média harmônica entre Recall e Precisão.  
 `F1-Score = 2 * (Precisão * Recall) / (Precisão + Recall)`
 
-
-
 ## 7. Análises
 
 Realizamos previsões com o modelo treinado utilizando novas avaliações de produtos. As análises confirmaram que o modelo é capaz de prever corretamente o sentimento das avaliações, com alta precisão para tanto avaliações positivas quanto negativas.
+
+![image](https://github.com/user-attachments/assets/e5f1af53-6367-4aff-bc64-b2c778887491)
 
 ## Conclusão
 
