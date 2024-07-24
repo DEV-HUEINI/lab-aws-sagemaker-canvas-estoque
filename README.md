@@ -11,14 +11,14 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
 
 
 ## Índice
-- 1. [Introdução](#introdução)
-- 2. [Conjunto de Dados](#conjunto-de-dados)
-- 3. [Preparação dos Dados](#preparação-dos-dados)
-- 4. [Construção do Modelo](#construção-do-modelo)
-- 5. [Resultados](#resultados)
-- 6. [Uso](#uso)
-- 7. [Conclusão](#conclusão)
-- 8. [Licença](#licença)
+1. [Introdução](#introdução)
+2. [Conjunto de Dados](#conjunto-de-dados)
+3. [Preparação dos Dados](#preparação-dos-dados)
+4. [Construção do Modelo](#construção-do-modelo)
+5. [Resultados](#resultados)
+6. [Uso](#uso)
+7. [Conclusão](#conclusão)
+8. [Licença](#licença)
 
 ## Introdução
 Olá, meu nome é Hueini David. Sou formado em Ciências da Computação e atualmente estou cursando pós-graduação em Inteligência Artificial e Aprendizagem de Máquina. 
