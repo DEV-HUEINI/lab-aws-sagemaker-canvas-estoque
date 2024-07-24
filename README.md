@@ -96,7 +96,12 @@ Os resultados mostraram que o modelo treinado com a base tratada teve um desempe
 ![image](https://github.com/user-attachments/assets/68c88905-12c1-4ea0-a7c5-eae928afcf4b)
 ![image](https://github.com/user-attachments/assets/c7bf6079-4df0-4b8e-a0c4-c9719be424ed)
 
+<p>
+  <img src="https://github.com/user-attachments/assets/bed06f08-04f8-4dfc-b326-44bbd56f909e" alt="Descrição da imagem" width="300" style="display: inline-block;"/>
+  <img src="https://github.com/user-attachments/assets/f1d4a4b0-dfbc-4e59-8c8e-28ad14cc7591" alt="Descrição da imagem" width="300" style="display: inline-block;"/>
+</p>
 
+<h2>Fórmulas</h2>
 - **Recall (Sensibilidade)**: Capacidade do modelo de identificar todos os valores reais.  
 `Recall = TP / (TP + FN)`
 
@@ -110,9 +115,7 @@ Os resultados mostraram que o modelo treinado com a base tratada teve um desempe
 `F1-Score = 2 * (Precisão * Recall) / (Precisão + Recall)`
 
 
-<img src="https://github.com/user-attachments/assets/bed06f08-04f8-4dfc-b326-44bbd56f909e" alt="Descrição da imagem" width="600" />
 
-<img src="https://github.com/user-attachments/assets/f1d4a4b0-dfbc-4e59-8c8e-28ad14cc7591" alt="Descrição da imagem" width="600" />
 
 
 ## 7. Análises
