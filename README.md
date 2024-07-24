@@ -84,6 +84,8 @@ Para melhorar a eficiência do modelo, a base de dados foi tratada da seguinte f
 Utilizamos o Amazon SageMaker Canvas para treinar dois modelos:
 - **Modelo com Base Completa**: Inclui todas as colunas, sem tratamento específico.
 - **Modelo com Base Tratada**: Inclui apenas as colunas relevantes e dados tratados.
+![image](https://github.com/user-attachments/assets/6c58adcd-1b42-4e4d-8bd2-b0a7b91fcb5a)
+
 
 ## 6. Resultados
 
