@@ -21,35 +21,35 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
   <table>
     <tr>
       <td>1.</td>
-      <td><a href="#introdução">Introdução</a></td>
+      <td><a href="#Introdução">Introdução</a></td>
     </tr>
     <tr>
       <td>2.</td>
-      <td><a href="#conjunto-de-dados">Conjunto de Dados</a></td>
+      <td><a href="#Conjunto de Dados">Conjunto de Dados</a></td>
     </tr>
     <tr>
       <td>3.</td>
-      <td><a href="#preparação-dos-dados">Preparação dos Dados</a></td>
+      <td><a href="#Base de Dados">Preparação dos Dados</a></td>
     </tr>
     <tr>
       <td>4.</td>
-      <td><a href="#construção-do-modelo">Construção do Modelo</a></td>
+      <td><a href="#Tratamento de Dados">Construção do Modelo</a></td>
     </tr>
     <tr>
       <td>5.</td>
-      <td><a href="#resultados">Resultados</a></td>
+      <td><a href="#Treinamento do Modelo">Resultados</a></td>
     </tr>
     <tr>
       <td>6.</td>
-      <td><a href="#uso">Uso</a></td>
+      <td><a href="#Resultados">Uso</a></td>
     </tr>
     <tr>
       <td>7.</td>
-      <td><a href="#conclusão">Conclusão</a></td>
+      <td><a href="#Análises">Conclusão</a></td>
     </tr>
     <tr>
       <td>8.</td>
-      <td><a href="#licença">Licença</a></td>
+      <td><a href="#Conclusão">Conclusão</a></td>
     </tr>
   </table>
 
