@@ -106,16 +106,16 @@ Acurácia: Proporção de previsões corretas tanto para SIM como para NAO.
 F1-Score: Média harmônica entre Recall(Sensibilidade) e Precisão.
   `F1-Score = 2 * (Precisão * Recall) / (Precisão + Recall)`
 
-**Recall (Sensibilidade)**: Capacidade do modelo de identificar todos os valores reais.  
+- **Recall (Sensibilidade)**: Capacidade do modelo de identificar todos os valores reais.  
 `Recall = TP / (TP + FN)`
 
-**Precisão**: Capacidade das previsões do modelo estarem corretas.  
+- **Precisão**: Capacidade das previsões do modelo estarem corretas.  
 `Precisão = TP / (TP + FP)`
 
-**Acurácia**: Proporção de previsões corretas tanto para SIM quanto para NÃO.  
+- **Acurácia**: Proporção de previsões corretas tanto para SIM quanto para NÃO.  
 `Acurácia = (TP + TN) / Total de Previsões`
 
-**F1-Score**: Média harmônica entre Recall e Precisão.  
+- **F1-Score**: Média harmônica entre Recall e Precisão.  
 `F1-Score = 2 * (Precisão * Recall) / (Precisão + Recall)`
 
 ## 7. Análises
