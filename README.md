@@ -96,15 +96,12 @@ Os resultados mostraram que o modelo treinado com a base tratada teve um desempe
 ![image](https://github.com/user-attachments/assets/68c88905-12c1-4ea0-a7c5-eae928afcf4b)
 ![image](https://github.com/user-attachments/assets/c7bf6079-4df0-4b8e-a0c4-c9719be424ed)
 
-![image](https://github.com/user-attachments/assets/3f98b212-9e1d-428b-bda2-3598948a3b70)
 
-![image](https://github.com/user-attachments/assets/b9781648-0461-4729-b56b-6a7670e61c06)
-
-
-<p style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <img src="https://github.com/user-attachments/assets/3f98b212-9e1d-428b-bda2-3598948a3b70" alt="Gráfico de Performance do Modelo" style="flex: 1; max-width: 45%; border: 2px solid #ddd; padding: 5px; margin: 10px; box-sizing: border-box;"/>
-  <img src="https://github.com/user-attachments/assets/b9781648-0461-4729-b56b-6a7670e61c06" alt="Matriz de Confusão" style="flex: 1; max-width: 45%; border: 2px solid #ddd; padding: 5px; margin: 10px; box-sizing: border-box;"/>
+<p style="display: flex; flex-wrap: nowrap; overflow-x: auto; margin: 0;">
+  <img src="https://github.com/user-attachments/assets/3f98b212-9e1d-428b-bda2-3598948a3b70" alt="Gráfico de Performance do Modelo" style="flex: 0 0 auto; width: 50%; border: 2px solid #ddd; padding: 5px; box-sizing: border-box;"/>
+  <img src="https://github.com/user-attachments/assets/b9781648-0461-4729-b56b-6a7670e61c06" alt="Matriz de Confusão" style="flex: 0 0 auto; width: 50%; border: 2px solid #ddd; padding: 5px; box-sizing: border-box;"/>
 </p>
+
 
 
 
