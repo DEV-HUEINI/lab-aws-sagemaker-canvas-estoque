@@ -97,13 +97,13 @@ Os resultados mostraram que o modelo treinado com a base tratada teve um desempe
 ![image](https://github.com/user-attachments/assets/c7bf6079-4df0-4b8e-a0c4-c9719be424ed)
 
 <p>
-  <img src="https://github.com/user-attachments/assets/e940806b-e9f7-47a1-9e41-b68a0a11a395" alt="Descrição da imagem" width="300" style="display: inline-block; border: 3px solid black; padding: 5px; margin: 5px; box-sizing: border-box;"/>
-  <img src="https://github.com/user-attachments/assets/f1d4a4b0-dfbc-4e59-8c8e-28ad14cc7591" alt="Descrição da imagem" width="300" style="display: inline-block; border: 3px solid black; padding: 5px; margin: 5px; box-sizing: border-box;"/>
+  <img src="https://github.com/user-attachments/assets/e940806b-e9f7-47a1-9e41-b68a0a11a395" alt="Gráfico de Performance do Modelo" width="500" style="display: inline-block; border: 2px solid #ddd; padding: 5px; margin: 10px; box-sizing: border-box;"/>
+  <img src="https://github.com/user-attachments/assets/f1d4a4b0-dfbc-4e59-8c8e-28ad14cc7591" alt="Matriz de Confusão" width="500" style="display: inline-block; border: 2px solid #ddd; padding: 5px; margin: 10px; box-sizing: border-box;"/>
 </p>
 
 
 
-<h2>Fórmulas</h2>
+<h2>Calculo de Métricas</h2>
 - **Recall (Sensibilidade)**: Capacidade do modelo de identificar todos os valores reais.  
 `Recall = TP / (TP + FN)`
 
@@ -126,4 +126,4 @@ Realizamos previsões com o modelo treinado utilizando novas avaliações de pro
 
 ## Conclusão
 
-Concluímos com sucesso o projeto de análise de sentimentos utilizando Amazon AWS SageMaker Canvas. O modelo demonstrou alta eficiência na classificação de avaliações de produtos, destacando a importância do tratamento adequado dos dados para obter melhores resultados.
+Concluímos com sucesso o projeto de análise de sentimentos utilizando Amazon AWS SageMaker Canvas. O modelo demonstrou alta eficiência na classificação de avaliações de produtos, destacando a importância do tratamento (pré-processamento) adequado dos dados para obter melhores resultados.
