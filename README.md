@@ -56,7 +56,7 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
 </details>
 
 ##
-## 1. Introdução
+## 1. ##Introdução
 A análise de sentimentos é uma ferramenta poderosa usada para entender opiniões e feedbacks de clientes. 
 Este projeto utiliza o Amazon AWS SageMaker Canvas para criar um modelo de aprendizado de máquina que analisa as avaliações de produtos para identificar sentimentos positivos ou negativos e determinar recomendações.
 
