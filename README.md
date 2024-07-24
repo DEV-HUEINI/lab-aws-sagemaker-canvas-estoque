@@ -1,14 +1,15 @@
 
 ## 📊 Análise de Sentimentos em Avaliações de Produtos usando Amazon AWS [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
 
-Olá, meu nome é Hueini David. Sou formado em Ciências da Computação e atualmente estou cursando Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina.
+Olá, meu nome é Hueini David. 
+
+Sou formado em Ciências da Computação e atualmente estou cursando Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina.
 
 Este projeto é uma demonstração prática das habilidades adquiridas no curso "Bootcamp Nexa - Machine Learning para Iniciantes" da DIO em Parceria com a Amazon AWS.
 
 
-
 <details>
-  <summary>#Índice
+  <summary># Índice
 </summary>
 
   1. [Introdução](#introdução)
