@@ -10,8 +10,6 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
 [![Análise de Sentimentos em Avaliações de Produtos usando Amazon AWS SageMaker Canvas](https://img.youtube.com/vi/eFMpne_vVa8/0.jpg)](https://www.youtube.com/watch?v=eFMpne_vVa8)
 
 
-![image](https://github.com/digitalinnovationone/lab-aws-sagemaker-canvas-estoque/assets/730492/72f5c21f-5562-491e-aa42-2885a3184650)
-
 ## Índice
 - [Introdução](#introdução)
 - [Conjunto de Dados](#conjunto-de-dados)
