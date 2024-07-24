@@ -11,19 +11,25 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
 
 
 ## Índice
-1. [Introdução](#introdução)
-2. [Conjunto de Dados](#conjunto-de-dados)
-3. [Preparação dos Dados](#preparação-dos-dados)
-4. [Construção do Modelo](#construção-do-modelo)
-5. [Resultados](#resultados)
-6. [Uso](#uso)
-7. [Conclusão](#conclusão)
-8. [Licença](#licença)
+<details>
+  <summary>Clique aqui para expandir/recolher</summary>
+
+  1. [Introdução](#introdução)
+  2. [Conjunto de Dados](#conjunto-de-dados)
+  3. [Preparação dos Dados](#preparação-dos-dados)
+  4. [Construção do Modelo](#construção-do-modelo)
+  5. [Resultados](#resultados)
+  6. [Uso](#uso)
+  7. [Conclusão](#conclusão)
+  8. [Licença](#licença)
+
+</details>
 
 ### 1. Introdução
-Olá, meu nome é Hueini David. Sou formado em Ciências da Computação e atualmente estou cursando Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina.
+Olá, meu nome é Hueini David. 
+Sou formado em Ciências da Computação e atualmente estou cursando Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina.
 
-Este projeto é uma demonstração prática das habilidades adquiridas no curso "Bootcamp Nexa Machine Learning para Iniciantes" da DIO.
+Este projeto é uma demonstração prática e habilidades adquiridas no curso "Bootcamp Nexa Machine Learning para Iniciantes" da DIO.
 
 A análise de sentimentos é uma ferramenta poderosa usada para entender opiniões e feedbacks de clientes. 
 Este projeto utiliza o Amazon AWS SageMaker Canvas para criar um modelo de aprendizado de máquina que analisa as avaliações de produtos para identificar sentimentos positivos ou negativos e determinar recomendações.
