@@ -14,20 +14,6 @@ Aqui está um vídeo de demonstração que mostra todo o processo:
 [![Análise de Sentimentos em Avaliações de Produtos usando Amazon AWS SageMaker Canvas](https://img.youtube.com/vi/eFMpne_vVa8/0.jpg)](https://www.youtube.com/watch?v=eFMpne_vVa8)
 
 ##
-<details>
-  <summary># Índice
-</summary>
-
-  1. [Introdução](#introdução)
-  2. [Conjunto de Dados](#conjunto-de-dados)
-  3. [Preparação dos Dados](#preparação-dos-dados)
-  4. [Construção do Modelo](#construção-do-modelo)
-  5. [Resultados](#resultados)
-  6. [Uso](#uso)
-  7. [Conclusão](#conclusão)
-  8. [Licença](#licença)
-
-</details>
 
 <details>
   <summary># Índice</summary>
