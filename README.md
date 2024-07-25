@@ -1,5 +1,5 @@
 
-## 📊 Análise de Sentimentos em Avaliações de Produtos usando Amazon AWS [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
+## Análise de Sentimentos em Avaliações de Produtos usando Amazon AWS [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
 
 Olá, meu nome é Hueini David. 
 
@@ -8,7 +8,7 @@ Sou formado em Ciências da Computação e atualmente estou cursando Pós-Gradua
 Este projeto é uma demonstração prática das habilidades adquiridas no curso "Bootcamp Nexa - Machine Learning para Iniciantes na AWS" da DIO em parceria com a Amazon AWS.
 
 
-## Vídeo de Demonstração
+## Vídeo do Projeto
 Aqui está um vídeo de demonstração que mostra todo o processo:
 
 [![Análise de Sentimentos em Avaliações de Produtos usando Amazon AWS SageMaker Canvas](https://img.youtube.com/vi/eFMpne_vVa8/0.jpg)](https://www.youtube.com/watch?v=eFMpne_vVa8)
